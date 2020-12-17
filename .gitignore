@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Data folders
-/A1/data
-/A2/data
-/A3/data
+/A1/*/data
+/A2/*/data
+/A3/*/data
