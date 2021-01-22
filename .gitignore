@@ -135,3 +135,6 @@ dmypy.json
 /A1/*/data
 /A2/*/data
 /A3/*/data
+
+# Images
+*.jpg
